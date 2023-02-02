@@ -1,4 +1,6 @@
-# flask_reverse_proxy_template
+# THIS REPOSITORY IS NO LONGER MAINTAINED AND HAS BEEN ARCHIVED
+
+## flask_reverse_proxy_template
 Example project demonstrating flask_reverse_proxy_fix
 
 ## Simple demo flask application verifying url_for in python and in jinja templates work with 
